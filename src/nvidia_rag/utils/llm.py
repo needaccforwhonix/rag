@@ -127,6 +127,32 @@ def _is_nvidia_endpoint(url: str | None) -> bool:
     return True
 
 
+def _disable_nemotron_3_nano_thinking_if_env_var_is_false(
+    llm: LLM | SimpleChatModel, model: str | None
+) -> LLM | SimpleChatModel:
+    """
+    Disable enable_thinking for nemotron-3-nano models if env var is false.
+    
+    By default, thinking is enabled for nemotron-3-nano models. This function
+    allows explicitly disabling it via the ENABLE_NEMOTRON_3_NANO_THINKING
+    environment variable when set to "false".
+    
+    Args:
+        llm: The LLM instance to configure
+        model: The model name to check
+        
+    Returns:
+        LLM with enable_thinking configured if model is nemotron-3-nano
+    """
+    if model and ("nemotron-3-nano" in model.lower() or "nvidia/nemotron-3-nano" in model or "nemotron-3-nano-30b-a3b" in model):
+        enable_thinking_str = os.getenv("ENABLE_NEMOTRON_3_NANO_THINKING", "true").lower()
+        if enable_thinking_str == "false":
+            # Explicitly disable thinking when env var is set to false
+            llm = llm.bind(chat_template_kwargs={"enable_thinking": False})
+            logger.info("nemotron-3-nano: Setting enable_thinking=False (from ENABLE_NEMOTRON_3_NANO_THINKING)")
+    return llm
+
+
 def _bind_thinking_tokens_if_configured(
     llm: LLM | SimpleChatModel, **kwargs
 ) -> LLM | SimpleChatModel:
@@ -192,20 +218,23 @@ def _bind_thinking_tokens_if_configured(
             )
         if max_think is not None and max_think > 0:
             bind_args["max_thinking_tokens"] = max_think
+        else:
+            raise ValueError(
+                f"max_thinking_tokens must be a positive integer, but got {max_think}"
+            )
+        logger.info(
+            "nvidia-nemotron-nano-9b-v2: Setting min_thinking_tokens=%d, max_thinking_tokens=%d",
+            min_think, max_think
+        )
     elif is_nemotron_3_nano:
-        # nemotron-3-nano variants: Use reasoning_budget and enable_thinking flag
-        # Check environment variable for enable_thinking control
-        enable_thinking_env = os.getenv("ENABLE_NEMOTRON_3_NANO_THINKING", "true").lower()
-        enable_thinking = enable_thinking_env in ("true", "1", "yes")
-        
+        enable_thinking = os.getenv("ENABLE_NEMOTRON_3_NANO_THINKING", "true").lower()
+        if not enable_thinking:
+            raise ValueError(
+                "ENABLE_NEMOTRON_3_NANO_THINKING must be set to 'true' to use reasoning budget"
+            )
+
         # For nemotron-3-nano variants, min_thinking_tokens is not supported
-        # If min_thinking_tokens is provided, max_thinking_tokens is required
         if min_think is not None and min_think > 0:
-            if max_think is None or max_think <= 0:
-                raise ValueError(
-                    "max_thinking_tokens must be a positive integer when using "
-                    "min_thinking_tokens with nemotron-3-nano variants"
-                )
             logger.warning(
                 "min_thinking_tokens is not supported for nemotron-3-nano variants, "
                 "only max_thinking_tokens (mapped to reasoning_budget) is supported"
@@ -216,7 +245,11 @@ def _bind_thinking_tokens_if_configured(
             bind_args["chat_template_kwargs"] = {"enable_thinking": enable_thinking}
             logger.info(
                 "nemotron-3-nano: Setting reasoning_budget=%d, enable_thinking=%s (from env: %s)",
-                max_think, enable_thinking, enable_thinking_env
+                max_think, enable_thinking, enable_thinking
+            )
+        else:
+            raise ValueError(
+                f"max_thinking_tokens must be a positive integer, but got {max_think}"
             )
 
     if bind_args:
@@ -326,6 +359,7 @@ def get_llm(config: NvidiaRAGConfig | None = None, **kwargs) -> LLM | SimpleChat
             # Only bind thinking tokens for NVIDIA endpoints
             if is_nvidia:
                 llm = _bind_thinking_tokens_if_configured(llm, **kwargs)
+                llm = _disable_nemotron_3_nano_thinking_if_env_var_is_false(llm, kwargs.get("model"))
             return llm
 
         logger.info("Using llm model %s from api catalog", kwargs.get("model"))
@@ -348,6 +382,7 @@ def get_llm(config: NvidiaRAGConfig | None = None, **kwargs) -> LLM | SimpleChat
             **({"model_kwargs": model_kwargs} if model_kwargs else {}),
         )
         llm = _bind_thinking_tokens_if_configured(llm, **kwargs)
+        llm = _disable_nemotron_3_nano_thinking_if_env_var_is_false(llm, kwargs.get("model"))
         return llm
 
     raise RuntimeError(
