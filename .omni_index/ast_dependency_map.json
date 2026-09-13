@@ -1,0 +1,6009 @@
+[
+  {
+    "file": ".pre-commit-config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pnpm-lock.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LINTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitattributes",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "variables.env",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".dockerignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE-3rd-party.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "SECURITY.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".coderabbit.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "package-lock.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".python-version",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "requirements-dev.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/publish_wheel.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/check_markdown_links.py",
+    "dependencies": [
+      "urllib.parse",
+      "collections",
+      "requests",
+      "List",
+      "Path",
+      "argparse",
+      "pathlib",
+      "typing",
+      "sys",
+      "re",
+      "urlparse",
+      "os",
+      "defaultdict"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/get_version.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".project/configpacks",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".project/spec.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/vlm.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/documentation.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/custom-metadata.md",
+    "dependencies": [
+      "yaml"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/change-model.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/multiturn.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/readme.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/text_only_ingest.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/multi-collection-retrieval.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/model-profiles.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/prompt-customization.md",
+    "dependencies": [
+      "NvidiaRAGConfig",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag",
+      "NvidiaRAG"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/milvus-schema.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/project.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/deploy-docker-self-hosted.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/nemo-guardrails.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/summarization.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/conf.py",
+    "dependencies": [
+      "sys",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/enable-nemotron-thinking.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/accuracy_perf.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/milvus-configuration.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/troubleshooting.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/deploy-docker-nvidia-hosted.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/evaluate.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/service-port-gpu-reference.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/mount-ingestor-volume.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/api-key.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/observability.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/debugging.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/mcp.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/query_decomposition.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/nemotron-parse-extraction.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/hybrid_search.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/versions1.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/migration_guide.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/audio_ingestion.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/mig-deployment.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/user-interface.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/notebooks.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/nv-ingest-standalone.md",
+    "dependencies": [
+      "Ingestor",
+      "nv_ingest_client.client"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/python-client.md",
+    "dependencies": [
+      "shutil",
+      "logging",
+      "json",
+      "NvidiaRAGIngestor",
+      "subprocess",
+      "display",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "and",
+      "nvidia_rag",
+      "NvidiaRAG",
+      "base64",
+      "for",
+      "getpass",
+      "os",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/api-ingestor.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/llm-params.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/multimodal-query.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/retrieval-only-deployment.md",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/deploy-helm-from-repo.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/vlm-embed.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/change-vectordb.md",
+    "dependencies": [
+      "nvidia_rag.utils.vdb.custom_vdb_name.custom_vdb_name",
+      "langchain_core.documents",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "VDBRag",
+      "CustomVDB",
+      "nvidia_rag",
+      "Document",
+      "NvidiaRAG"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/api-rag.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/image_captioning.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/query-to-answer-pipeline.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/support-matrix.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/data-catalog.md",
+    "dependencies": [
+      "nvidia_rag",
+      "requests",
+      "NvidiaRAGIngestor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/deploy-helm.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/release-notes.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/self-reflection.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/nemoretriever-ocr.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/css/swagger-nvidia.css",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/api_reference/openapi_schema_rag_server.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/api_reference/openapi_schema_ingestor_server.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/nvidia_rag_mcp/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/nvidia_rag_mcp/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/nvidia_rag_mcp/mcp_server.py",
+    "dependencies": [
+      "aiohttp",
+      "logging",
+      "json",
+      "fastmcp",
+      "FastMCP",
+      "__future__",
+      "argparse",
+      "typing",
+      "annotations",
+      "Any",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/nvidia_rag_mcp/mcp_client.py",
+    "dependencies": [
+      "streamablehttp_client",
+      "mcp.client.stdio",
+      "argparse",
+      "annotations",
+      "sys",
+      "stdio_client",
+      "mcp.client.sse",
+      "mcp.client.streamable_http",
+      "__future__",
+      "typing",
+      "ClientInfo",
+      "contextlib",
+      "json",
+      "mcp.types",
+      "ClientSession",
+      "shlex",
+      "anyio",
+      "Any",
+      "StdioServerParameters",
+      "mcp.client.session",
+      "inspect",
+      "asynccontextmanager",
+      "mcp",
+      "sse_client"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/pyproject.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/src/rag_react_agent/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/src/rag_react_agent/register.py",
+    "dependencies": [
+      "logging",
+      "FunctionInfo",
+      "json",
+      "FunctionBaseConfig",
+      "Builder",
+      "nat.data_models.function",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "pydantic",
+      "nvidia_rag",
+      "register_function",
+      "nat.cli.register_workflow",
+      "nat.builder.function_info",
+      "Field",
+      "os",
+      "nat.builder.builder",
+      "NvidiaRAG"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_react_agent/src/rag_react_agent/configs/config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/deploy/docker-compose.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/consumer.py",
+    "dependencies": [
+      "KafkaConsumer",
+      "router",
+      "models.events",
+      "Path",
+      "BaseHandler",
+      "config.constants",
+      "typing",
+      "kafka",
+      "json",
+      "S3Event",
+      "Dict",
+      "config.settings",
+      "pathlib",
+      "services.storage",
+      "handlers.base",
+      "logging",
+      "FileRouter",
+      "DEST_RAG",
+      "datetime",
+      "ObjectStorage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/main.py",
+    "dependencies": [
+      "logging",
+      "DocumentHandler",
+      "DEST_RAG",
+      "config.settings",
+      "config.constants",
+      "handlers",
+      "consumer",
+      "services",
+      "KafkaEventConsumer",
+      "ObjectStorage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/router.py",
+    "dependencies": [
+      "logging",
+      "Dict",
+      "Path",
+      "config.constants",
+      "pathlib",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/services/__init__.py",
+    "dependencies": [
+      ".video_analyzer",
+      "VideoAnalyzer",
+      ".storage",
+      "DocumentIndexer",
+      ".document_indexer",
+      "ObjectStorage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/services/video_analyzer.py",
+    "dependencies": [
+      "logging",
+      "json",
+      "requests",
+      "Path",
+      "Optional",
+      "pathlib",
+      "typing",
+      "re",
+      "config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/services/storage.py",
+    "dependencies": [
+      "logging",
+      "io",
+      "json",
+      "config",
+      "Dict",
+      "Minio",
+      "ABC",
+      "typing",
+      "S3Error",
+      "abc",
+      "minio",
+      "minio.error"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/services/document_indexer.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "requests",
+      "Path",
+      "Optional",
+      "pathlib",
+      "typing",
+      "config"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/models/__init__.py",
+    "dependencies": [
+      "S3Event",
+      ".events"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/models/events.py",
+    "dependencies": [
+      "urllib.parse",
+      "dataclass",
+      "datetime",
+      "unquote_plus",
+      "config.constants",
+      "dataclasses",
+      "typing",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/config/__init__.py",
+    "dependencies": [
+      "VIDEO_EXTENSIONS",
+      "config.settings",
+      "config.constants",
+      ".settings",
+      ".constants"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/config/settings.py",
+    "dependencies": [
+      "os",
+      ".constants"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/config/constants.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/handlers/__init__.py",
+    "dependencies": [
+      "DocumentHandler",
+      ".document",
+      ".video",
+      "BaseHandler",
+      ".base",
+      "VideoHandler"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/handlers/video.py",
+    "dependencies": [
+      "logging",
+      "S3Event",
+      "requests",
+      "models.events",
+      "services.video_analyzer",
+      "VideoAnalyzer",
+      "BaseHandler",
+      "services.document_indexer",
+      "DocumentIndexer",
+      ".base",
+      "services.storage",
+      "ObjectStorage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/handlers/base.py",
+    "dependencies": [
+      "logging",
+      "S3Event",
+      "models.events",
+      "ABC",
+      "abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "examples/rag_event_ingest/kafka_consumer/handlers/document.py",
+    "dependencies": [
+      "logging",
+      "S3Event",
+      "requests",
+      "models.events",
+      "BaseHandler",
+      "services.document_indexer",
+      "DocumentIndexer",
+      ".base",
+      "services.storage",
+      "ObjectStorage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tsconfig.test.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/Dockerfile",
+    "dependencies": [
+      "fs",
+      "http",
+      "url",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/pnpm-lock.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/vite.config.ts",
+    "dependencies": [
+      "tailwindcss",
+      "react",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/eslint.config.js",
+    "dependencies": [
+      "reactRefresh",
+      "globals",
+      "js",
+      "reactHooks",
+      "tseslint"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/.dockerignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/README.md",
+    "dependencies": [
+      "reactX",
+      "reactDom"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tsconfig.app.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/vitest.config.ts",
+    "dependencies": [
+      "viteConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tsconfig.node.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/LICENSE-3rd-party.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/package-lock.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/TESTING.md",
+    "dependencies": [
+      "userEvent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/tsconfig.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/index.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/.gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/package/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/public/vite.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/App.tsx",
+    "dependencies": [
+      "Layout",
+      "NewCollection",
+      "Chat",
+      "SettingsPage"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/main.tsx",
+    "dependencies": [
+      "ReactDOM",
+      "App",
+      "./index.css"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/index.css",
+    "dependencies": [
+      "@kui/react/base.css",
+      "tailwindcss/utilities.css",
+      "tailwindcss/preflight.css",
+      "tailwindcss/theme.css"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/vite-env.d.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/test/utils.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/test/setup.ts",
+    "dependencies": [
+      "@testing-library/jest-dom"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/test/types.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/assets/react.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/assets/logo.svg",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useNotificationStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useSettingsStore.ts",
+    "dependencies": [
+      "type",
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useChatStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useToastStore.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useCollectionDrawerStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useImageAttachmentStore.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useCollectionConfigStore.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useCitationStore.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useStreamingStore.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useCollectionsStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useSidebarStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useIngestionTasksStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/useNewCollectionStore.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/store/__tests__/useSettingsStore.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/icons/NvidiaLogo.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/icons/index.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/icons/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/icons/SettingsIcons.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/DocumentsList.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/TaskDisplay.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/TaskStatusIcons.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/DocumentItem.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/__tests__/TaskDisplay.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/__tests__/DocumentItem.test.tsx",
+    "dependencies": [
+      "userEvent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/__tests__/DocumentsList.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/tasks/__tests__/TaskStatusIcons.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/LoadingState.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/ExpandChevron.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/ToastContainer.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/CollapsibleSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/ErrorState.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/EmptyState.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/__tests__/LoadingState.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/ui/__tests__/ErrorState.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/UploaderSection.tsx",
+    "dependencies": [
+      "NvidiaUpload"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/DrawerActions.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/SidebarDrawer.tsx",
+    "dependencies": [
+      "Citations"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/__tests__/DrawerActions.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/__tests__/SidebarDrawer.test.tsx",
+    "dependencies": [
+      "type",
+      "SidebarDrawer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/drawer/__tests__/UploaderSection.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/SettingsHeader.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/ModelsSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/SettingControls.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/AdvancedSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/RagConfigSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/EndpointsSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/SettingsSidebar.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/SettingsContent.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/FeatureTogglesSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/SettingsSection.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/ModelsSection.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/SettingsHeader.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/AdvancedSection.test.tsx",
+    "dependencies": [
+      "userEvent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/SettingsSection.test.tsx",
+    "dependencies": [
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/EndpointsSection.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/RagConfigSection.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/settings/__tests__/FeatureTogglesSection.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/MessageInput.tsx",
+    "dependencies": [
+      "SimpleFilterBar"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/StreamingIndicator.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/ChatActionsMenu.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/ImagePreview.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/MessageTextarea.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/MessageActions.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/MessageContent.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/Citations.tsx",
+    "dependencies": [
+      "type",
+      "CitationItem"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/MessageInputContainer.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/ChatMessageBubble.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/ChatMessageBubble.test.tsx",
+    "dependencies": [
+      "type",
+      "ChatMessageBubble"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/MessageInputContainer.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/MessageContent.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/StreamingIndicator.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/Citations.test.tsx",
+    "dependencies": [
+      "type",
+      "Citations"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/MessageTextarea.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/ChatActionsMenu.test.tsx",
+    "dependencies": [
+      "userEvent"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/MessageActions.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/chat/__tests__/MessageInput.test.tsx",
+    "dependencies": [
+      "type",
+      "MessageInput"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationMetadata.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationButton.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationTextContent.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationItem.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationScore.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/CitationVisualContent.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationButton.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationItem.test.tsx",
+    "dependencies": [
+      "type",
+      "CitationItem"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationTextContent.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationVisualContent.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationScore.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/citations/__tests__/CitationMetadata.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/SettingsModal.tsx",
+    "dependencies": [
+      "MetadataSchemaEditor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/FeatureWarningModal.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/ModalContainer.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/ConfirmationModal.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/__tests__/SettingsModal.test.tsx",
+    "dependencies": [
+      "issues"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/modals/__tests__/FeatureWarningModal.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionDrawer.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionConfigurationPanel.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionChips.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionsGrid.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionList.tsx",
+    "dependencies": [
+      "CollectionDrawer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/NewCollectionButtons.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/NewCollectionButton.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionItem.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/CollectionCatalogInfo.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionList.test.tsx",
+    "dependencies": [
+      "CollectionList"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionChips.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionsGrid.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionCatalogInfo.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/NewCollectionButtons.test.tsx",
+    "dependencies": [
+      "NewCollectionButtons"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionDrawer.test.tsx",
+    "dependencies": [
+      "CollectionDrawer",
+      "issues"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/CollectionItem.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/collections/__tests__/NewCollectionButton.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/StatusMessages.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/Header.tsx",
+    "dependencies": [
+      "NvidiaLogo",
+      "NotificationBell"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/Layout.tsx",
+    "dependencies": [
+      "Header"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/__tests__/Header.test.tsx",
+    "dependencies": [
+      "Header"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/__tests__/StatusMessages.test.tsx",
+    "dependencies": [
+      "StatusMessages"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/layout/__tests__/Layout.test.tsx",
+    "dependencies": [
+      "Layout"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/NotificationDropdown.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/NotificationBadge.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/HealthNotificationDisplay.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/NotificationBell.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/TaskPoller.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/__tests__/NotificationBell.test.tsx",
+    "dependencies": [
+      "NotificationBell"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/__tests__/TaskPoller.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/__tests__/NotificationBadge.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/notifications/__tests__/NotificationDropdown.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/FieldDisplayCard.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/FieldsList.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/FieldEditForm.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/NewFieldForm.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/MetadataSchemaEditor.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/__tests__/MetadataSchemaEditor.test.tsx",
+    "dependencies": [
+      "MetadataSchemaEditor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/__tests__/NewFieldForm.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/__tests__/FieldDisplayCard.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/__tests__/FieldsList.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/schema/__tests__/FieldEditForm.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/filtering/FilterBar.tsx",
+    "dependencies": [
+      "type",
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/filtering/FilterGenerationToggle.tsx",
+    "dependencies": [
+      "type",
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/filtering/SimpleFilterBar.tsx",
+    "dependencies": [
+      "type",
+      "React"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/MetadataField.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileCard.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileMetadataForm.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FilesList.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileList.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/NvidiaUpload.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileInput.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileItem.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileUploaderWithMetadata.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/FileUploadZone.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileItem.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileUploadZone.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/MetadataField.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileInput.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileUploaderWithMetadata.test.tsx",
+    "dependencies": [
+      "FileUploaderWithMetadata"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FilesList.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileMetadataForm.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileList.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/NvidiaUpload.test.tsx",
+    "dependencies": [
+      "NvidiaUpload",
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/components/files/__tests__/FileCard.test.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useDragAndDrop.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCitationExpansion.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useNewFieldForm.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useUploadDocuments.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useHealthMonitoring.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFileUtils.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useTheme.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFileIcons.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useMessageSubmit.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCitationText.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCollapsibleSections.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useTextareaResize.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useTaskSorting.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useMarkdownRenderer.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFeatureWarning.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useMetadataInput.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useNewCollectionForm.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useSettingsHandlers.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useSettingsSections.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useUploadFileState.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFormValidation.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useSchemaEditor.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFileValidation.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useDropdownToggle.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCitationUtils.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCollectionActions.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useUUID.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useChatStream.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useTaskUtils.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useSubmitNewCollection.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useCitations.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/useFileUpload.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/__tests__/useCollectionsApi.test.tsx",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/__tests__/useUploadDocuments.test.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/hooks/__tests__/useFileValidation.test.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/types/requests.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/types/notifications.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/types/chat.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/types/collections.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/types/api.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useDocumentSummary.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useIngestionTasksApi.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useHealthApi.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useCollectionDocuments.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useSendMessage.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useConfigurationApi.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useMetadataValues.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/api/useCollectionsApi.ts",
+    "dependencies": [
+      "type"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/pages/NewCollection.tsx",
+    "dependencies": [
+      "NewCollectionButtons",
+      "NvidiaUpload",
+      "MetadataSchemaEditor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/pages/Chat.tsx",
+    "dependencies": [
+      "CollectionList",
+      "MessageInput",
+      "ChatMessageBubble",
+      "SidebarDrawer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/pages/SettingsPage.tsx",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "frontend/src/pages/__tests__/Chat.test.tsx",
+    "dependencies": [
+      "type",
+      "Chat"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "hooks/useFormManager.ts",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/evaluation_01_ragas.ipynb",
+    "dependencies": [
+      "ragas",
+      "aiohttp",
+      "json",
+      "pandas",
+      "glob",
+      "RunConfig",
+      "LangchainLLMWrapper",
+      "EvaluationDataset",
+      "ragas.run_config",
+      "evaluate",
+      "ChatNVIDIA",
+      "langchain_nvidia_ai_endpoints.chat_models",
+      "httpx",
+      "getpass",
+      "os",
+      "ragas.llms",
+      "AnswerAccuracy",
+      "ragas.metrics"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/launchable.ipynb",
+    "dependencies": [
+      "base64",
+      "sys",
+      "display",
+      "shutil",
+      "dotenv",
+      "subprocess",
+      "Path",
+      "IPython.display",
+      "pip",
+      "typing",
+      "fpdf",
+      "asyncio",
+      "gzip",
+      "json",
+      "load_dotenv",
+      "pathlib",
+      "re",
+      "getpass",
+      "aiohttp",
+      "List",
+      "os",
+      "FPDF"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/building_rag_vdb_operator.ipynb",
+    "dependencies": [
+      "os",
+      "concurrent.futures",
+      "opentelemetry",
+      "sentence_transformers",
+      "base64",
+      "langchain_core.runnables",
+      "time",
+      "dotenv",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "typing",
+      "Image",
+      "get_embedding_model",
+      "VDBRagIngest",
+      "langchain_core.vectorstores",
+      "langchain_core.documents",
+      "json",
+      "cleanup_records",
+      "load_dotenv",
+      "nvidia_rag.utils.embedding",
+      "OpenSearchVectorSearch",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "RunnableAssign",
+      "langchain.schema",
+      "nvidia_rag.utils.vdb",
+      "Any",
+      "getpass",
+      "context",
+      "logging",
+      "datetime",
+      "SentenceTransformer",
+      "langchain_community.vectorstores",
+      "nvidia_rag.utils.common",
+      "nvidia_rag",
+      "Future",
+      "Document",
+      "VectorStore",
+      "NvidiaRAG",
+      "DEFAULT_METADATA_SCHEMA_COLLECTION",
+      "nv_ingest_client.util.milvus",
+      "perform_document_info_aggregation",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/rag_event_ingest.ipynb",
+    "dependencies": [
+      "aiohttp",
+      "dotenv",
+      "List",
+      "load_dotenv",
+      "subprocess",
+      "Minio",
+      "typing",
+      "S3Error",
+      "sys",
+      "getpass",
+      "os",
+      "minio.error",
+      "minio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/.env_library",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/image_input.ipynb",
+    "dependencies": [
+      "aiohttp",
+      "json",
+      "requests",
+      "httpx",
+      "base64",
+      "Image",
+      "getpass",
+      "os",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/summarization.ipynb",
+    "dependencies": [
+      "shutil",
+      "both",
+      "logging",
+      "aiohttp",
+      "json",
+      "dotenv",
+      "load_dotenv",
+      "subprocess",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "nvidia_rag",
+      "NvidiaRAG",
+      "retrieve_summary",
+      "getpass",
+      "os",
+      "nvidia_rag.rag_server.response_generator",
+      "the"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/nat_mcp_integration.ipynb",
+    "dependencies": [
+      "shutil",
+      "time",
+      "json",
+      "subprocess",
+      "atexit",
+      "getpass",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/evaluation_02_recall.ipynb",
+    "dependencies": [
+      "json",
+      "requests",
+      "pandas",
+      "tqdm",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/ingestion_api_usage.ipynb",
+    "dependencies": [
+      "aiohttp",
+      "json",
+      "asyncio",
+      "os",
+      "required"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/retriever_api_usage.ipynb",
+    "dependencies": [
+      "aiohttp",
+      "json",
+      "OpenAI",
+      "openai",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/gt_page_mapper.py",
+    "dependencies": [
+      "json",
+      "SequenceMatcher",
+      "argparse",
+      "tqdm",
+      "PyPDF2",
+      "os",
+      "difflib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/rag_library_lite_usage.ipynb",
+    "dependencies": [
+      "logging",
+      "json",
+      "NvidiaRAGIngestor",
+      "platform",
+      "run_pipeline",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "Image",
+      "IPython.display",
+      "nvidia_rag",
+      "NvidiaRAG",
+      "base64",
+      "sys",
+      "getpass",
+      "os",
+      "nv_ingest.framework.orchestration.ray.util.pipeline.pipeline_runners"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/mcp_server_usage.ipynb",
+    "dependencies": [
+      "time",
+      "json",
+      "subprocess",
+      "atexit",
+      "sys",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/nb_metadata.ipynb",
+    "dependencies": [
+      "os",
+      "aiohttp",
+      "json",
+      "requests",
+      "display",
+      "asyncio",
+      "base64",
+      "httpx",
+      "required",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "notebooks/rag_library_usage.ipynb",
+    "dependencies": [
+      "shutil",
+      "logging",
+      "json",
+      "NvidiaRAGIngestor",
+      "subprocess",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "nvidia_rag",
+      "NvidiaRAG",
+      "base64",
+      "Image",
+      "getpass",
+      "os",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/batch_ingestion.py",
+    "dependencies": [
+      "math",
+      "logging",
+      "time",
+      "json",
+      "requests",
+      "Path",
+      "argparse",
+      "pathlib",
+      "Iterable",
+      "sys",
+      "os",
+      "collections.abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/retriever_api_usage.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "aiohttp",
+      "json",
+      "datetime",
+      "argparse",
+      "typing",
+      "sys",
+      "asyncio",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/extract_python_licenses.py",
+    "dependencies": [
+      "Path",
+      "pathlib",
+      "sys",
+      "re",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "scripts/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/config/rag-metrics-dashboard.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/config/grafana.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/config/prometheus.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/config/otel-collector-config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/Chart.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/endpoints.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/values.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/Chart.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/frontend-deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/configmap.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/reranking-nim.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/vlm-nim.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/ingestor-server-deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/secrets.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/ingestor-server-service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/servicemonitor.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/ingestor-server-pvc.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/deployment.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/llm-nim.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/vlm-embed-nim.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/serviceaccount.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/embedding-nim.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/frontend-service.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/templates/_helpers.tpl",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/nvidia-blueprint-rag/files/prompt.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/mig-slicing/values-mig-h100.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/mig-slicing/mig-config-rtx6000.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/mig-slicing/values-mig-rtx6000.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/helm/mig-slicing/mig-config-h100.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/compose.yaml",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/workbench/quickstart.ipynb",
+    "dependencies": [
+      "aiohttp",
+      "io",
+      "json",
+      "List",
+      "requests",
+      "display",
+      "PIL",
+      "Image",
+      "typing",
+      "tempfile",
+      "base64",
+      "os",
+      "IPython.display"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/.env",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/docker-compose-ingestor-server.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/docker-compose-nemo-guardrails.yaml",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/vectordb.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/docker-compose-rag-server.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/observability.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nvdev.env",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nims.yaml",
+    "dependencies": [
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/accuracy_profile.env",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/perf_profile.env",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nemoguardrails/config-store/config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nemoguardrails/config-store/nemoguard_cloud/config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nemoguardrails/config-store/nemoguard_cloud/prompts.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nemoguardrails/config-store/nemoguard/config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "deploy/compose/nemoguardrails/config-store/nemoguard/prompts.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "data/LICENSE.DATA",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/conftest.py",
+    "dependencies": [
+      "logging",
+      "types",
+      "BatchSpanProcessor",
+      "unittest.mock",
+      "for",
+      "MagicMock",
+      "opentelemetry",
+      "opentelemetry.sdk.trace",
+      "TracerProvider",
+      "metrics",
+      "pytest",
+      "atexit",
+      "sys",
+      "opentelemetry.sdk.trace.export"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/requirements-test.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/ci-unittest.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/requirements-dev.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_compose_helm_parity/env_parity_exemptions.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_compose_helm_parity/test_compose_helm_parity.py",
+    "dependencies": [
+      "yaml",
+      "fnmatch",
+      "Path",
+      "pathlib",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_observability/test_generate_answer_metrics.py",
+    "dependencies": [
+      "generate_answer",
+      "nvidia_rag.rag_server.response_generator",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_observability/test_otel_metrics.py",
+    "dependencies": [
+      "OtelMetrics",
+      "types",
+      "nvidia_rag.utils.observability.otel_metrics",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_observability/test_langchain_callback_handler.py",
+    "dependencies": [
+      "types",
+      "Generation",
+      "langchain_core.outputs",
+      "LangchainCallbackHandler",
+      "nvidia_rag.utils.observability.langchain_callback_handler",
+      "langchain_core.messages",
+      "opentelemetry.semconv_ai",
+      "AIMessageChunk",
+      "SimpleNamespace",
+      "pytest",
+      "uuid",
+      "uuid4"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_observability/test_rag_server_metrics.py",
+    "dependencies": [
+      "fastapi.testclient",
+      "time",
+      "app",
+      "unittest.mock",
+      "concurrent.futures",
+      "MagicMock",
+      "Callable",
+      "nvidia_rag.rag_server.server",
+      "pytest",
+      "tempfile",
+      "TestClient",
+      "os",
+      "collections.abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_observability/test_rag_server_tracing.py",
+    "dependencies": [
+      "types",
+      "unittest.mock",
+      "FastAPI",
+      "MagicMock",
+      "opentelemetry.sdk.resources",
+      "nvidia_rag.utils.observability.tracing.instrumentation",
+      "fastapi",
+      "SimpleNamespace",
+      "pytest",
+      "tempfile",
+      "instrument",
+      "os",
+      "nvidia_rag.utils.observability.tracing",
+      "Resource"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_query_decomposition.py",
+    "dependencies": [
+      "math",
+      "langchain_core.documents",
+      "langchain_nvidia_ai_endpoints",
+      "unittest.mock",
+      "MagicMock",
+      "nvidia_rag.rag_server.query_decomposition",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "nvidia_rag.utils.common",
+      "filter_documents_by_confidence",
+      "Document",
+      "pytest",
+      "ChatNVIDIA"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_query_rewriting.py",
+    "dependencies": [
+      "logging",
+      "unittest.mock",
+      "AsyncMock",
+      "NvidiaRAG",
+      "pytest",
+      "nvidia_rag.rag_server.main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_main_advanced_features.py",
+    "dependencies": [
+      "nvidia_rag.rag_server.response_generator",
+      "collections.abc",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "pytest",
+      "unittest.mock",
+      "AsyncMock",
+      "requests",
+      "nvidia_rag.utils.vdb.milvus.milvus_vdb",
+      "Generator",
+      "APIError",
+      "VDBRag",
+      "ConnectTimeout",
+      "NvidiaRAG",
+      "RAGHealthResponse",
+      "os",
+      "MilvusVDB",
+      "nvidia_rag.rag_server.main",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_main_core_components.py",
+    "dependencies": [
+      "unittest.mock",
+      "AsyncMock",
+      "pytest",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "requests",
+      "typing",
+      "asyncio",
+      "RAGHealthResponse",
+      "TestClient",
+      "json",
+      "Any",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.rag_server.main",
+      "nvidia_rag.utils.health_models",
+      "fastapi.testclient",
+      "APIError",
+      "VDBRag",
+      "nvidia_rag.rag_server.reflection",
+      "NvidiaRAG",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_main_integration.py",
+    "dependencies": [
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "pytest",
+      "unittest.mock",
+      "AsyncMock",
+      "Generator",
+      "APIError",
+      "VDBRag",
+      "NvidiaRAG",
+      "os",
+      "collections.abc",
+      "nvidia_rag.rag_server.main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_summary_endpoint.py",
+    "dependencies": [
+      "fastapi.testclient",
+      "ErrorCodeMapping",
+      "json",
+      "app",
+      "unittest.mock",
+      "AsyncMock",
+      "pytest",
+      "TestClient",
+      "nvidia_rag.rag_server.server",
+      "nvidia_rag.rag_server.response_generator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_validation.py",
+    "dependencies": [
+      "nvidia_rag.rag_server.validation",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_self_reflection.py",
+    "dependencies": [
+      "langchain_core.output_parsers.string",
+      "langchain_core.documents",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "get_ranking_model",
+      "nvidia_rag.utils.llm",
+      "get_llm",
+      "VDBRag",
+      "langchain_core.prompts.chat",
+      "StrOutputParser",
+      "Document",
+      "nvidia_rag.rag_server.reflection",
+      "pytest",
+      "nvidia_rag.utils.reranker",
+      "ChatPromptTemplate"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_vlm.py",
+    "dependencies": [
+      "types",
+      "io",
+      "unittest.mock",
+      "AsyncMock",
+      "AIMessage",
+      "PIL",
+      "VLM",
+      "langchain_core.messages",
+      "SimpleNamespace",
+      "pytest",
+      "nvidia_rag.rag_server.vlm",
+      "base64",
+      "Image"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_main_vlm_direct_chain.py",
+    "dependencies": [
+      "nvidia_rag.utils.vdb.vdb_base",
+      "pytest",
+      "unittest.mock",
+      "AsyncMock",
+      "APIError",
+      "VDBRag",
+      "NvidiaRAG",
+      "os",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.rag_server.main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_vector_stores_endpoint.py",
+    "dependencies": [
+      "fastapi.testclient",
+      "json",
+      "app",
+      "unittest.mock",
+      "Mock",
+      "pytest",
+      "asyncio",
+      "TestClient",
+      "nvidia_rag.rag_server.server",
+      "nvidia_rag.rag_server.response_generator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_server_health.py",
+    "dependencies": [
+      "aiohttp",
+      "logging",
+      "unittest.mock",
+      "AsyncMock",
+      "pydantic",
+      "SecretStr",
+      "pytest",
+      "NIMServiceHealthInfo",
+      "asyncio",
+      "nvidia_rag.rag_server.health",
+      "os",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_server.py",
+    "dependencies": [
+      "types",
+      "fastapi.testclient",
+      "json",
+      "app",
+      "requests",
+      "Request",
+      "AsyncMock",
+      "unittest.mock",
+      "pymilvus.exceptions",
+      "fastapi",
+      "RAGHealthResponse",
+      "pytest",
+      "MilvusException",
+      "asyncio",
+      "TestClient",
+      "nvidia_rag.rag_server.server",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_rag_main_edge_cases.py",
+    "dependencies": [
+      "nvidia_rag.utils.vdb.vdb_base",
+      "unittest.mock",
+      "AsyncMock",
+      "APIError",
+      "VDBRag",
+      "NvidiaRAG",
+      "pytest",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.rag_server.main"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_rag_server/test_response_generator.py",
+    "dependencies": [
+      "time",
+      "json",
+      "ValidationError",
+      "unittest.mock",
+      "pymilvus.exceptions",
+      "AsyncMock",
+      "pydantic",
+      "typing",
+      "pytest",
+      "MilvusException",
+      "Any",
+      "nvidia_rag.rag_server.response_generator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_init.py",
+    "dependencies": [
+      "logging",
+      "patch",
+      "unittest.mock",
+      "importlib",
+      "nvidia_rag",
+      "pytest",
+      "os",
+      "the"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb_init.py",
+    "dependencies": [
+      "unittest.mock",
+      "MagicMock",
+      "pytest",
+      "DEFAULT_METADATA_SCHEMA_COLLECTION",
+      "nvidia_rag.utils.vdb",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_configuration.py",
+    "dependencies": [
+      "patch",
+      "io",
+      "json",
+      "yaml",
+      "unittest.mock",
+      "nvidia_rag.utils.configuration",
+      "pydantic",
+      "SecretStr",
+      "pytest",
+      "tempfile",
+      "StringIO",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_filter_expression_generator.py",
+    "dependencies": [
+      "json",
+      "nvidia_rag.utils.filter_expression_generator",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_embedding.py",
+    "dependencies": [
+      "unittest.mock",
+      "nvidia_rag.utils.embedding",
+      "MagicMock",
+      "pytest",
+      "sys",
+      "get_embedding_model"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_reranker.py",
+    "dependencies": [
+      "unittest.mock",
+      "_get_ranking_model",
+      "pytest",
+      "nvidia_rag.utils.reranker",
+      "ANY"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_summarization.py",
+    "dependencies": [
+      "langchain_core.documents",
+      "unittest.mock",
+      "nvidia_rag.utils.summarization",
+      "AsyncMock",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "Document",
+      "pytest",
+      "asyncio",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_batch_utils.py",
+    "dependencies": [
+      "nvidia_rag.utils.batch_utils",
+      "MagicMock",
+      "unittest.mock",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_summary_status_handler.py",
+    "dependencies": [
+      "redis.exceptions",
+      "json",
+      "unittest.mock",
+      "nvidia_rag.utils.summarization",
+      "datetime",
+      "nvidia_rag.utils.summary_status_handler",
+      "MagicMock",
+      "UTC",
+      "RedisError",
+      "pytest",
+      "asyncio",
+      "os",
+      "ConnectionError"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_common.py",
+    "dependencies": [
+      "langchain_core.documents",
+      "unittest.mock",
+      "pandas",
+      "importlib",
+      "MagicMock",
+      "nvidia_rag.utils.common",
+      "Document",
+      "pytest",
+      "tempfile",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_llm.py",
+    "dependencies": [
+      "io",
+      "yaml",
+      "requests",
+      "unittest.mock",
+      "Path",
+      "MagicMock",
+      "nvidia_rag.utils.llm",
+      "APIError",
+      "_bind_reasoning_config",
+      "pathlib",
+      "pytest",
+      "tempfile",
+      "StringIO",
+      "os",
+      "nvidia_rag.rag_server.response_generator"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_minio_operator.py",
+    "dependencies": [
+      "types",
+      "io",
+      "importlib",
+      "the",
+      "pydantic",
+      "SecretStr",
+      "nvidia_rag.utils.minio_operator",
+      "SimpleNamespace",
+      "pytest",
+      "sys",
+      "BytesIO"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb/test_milvus_vdb.py",
+    "dependencies": [
+      "unittest.mock",
+      "opentelemetry",
+      "SearchType",
+      "pytest",
+      "MilvusVDB",
+      "requests",
+      "MilvusException",
+      "pymilvus",
+      "langchain_core.documents",
+      "MagicMock",
+      "nvidia_rag.utils.configuration",
+      "pydantic",
+      "nvidia_rag.utils.vdb",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.utils.vdb.milvus.milvus_vdb",
+      "SecretStr",
+      "APIError",
+      "Document",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb/test_vdb_ingest_base.py",
+    "dependencies": [
+      "threading",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "unittest.mock",
+      "concurrent.futures",
+      "MagicMock",
+      "ThreadPoolExecutor",
+      "SerializedVDBWrapper",
+      "VDB",
+      "pytest",
+      "nv_ingest_client.util.vdb.adt_vdb"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb/test_vdb_base.py",
+    "dependencies": [
+      "langchain_core.vectorstores",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "VDBRag",
+      "typing",
+      "VectorStore",
+      "pytest",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb/test_elastic_vdb.py",
+    "dependencies": [
+      "unittest.mock",
+      "nvidia_rag.utils.vdb.elasticsearch",
+      "opentelemetry",
+      "SearchType",
+      "pytest",
+      "nvidia_rag.utils.vdb.elasticsearch.elastic_vdb",
+      "requests",
+      "ElasticVDB",
+      "unittest",
+      "es_queries",
+      "langchain_core.documents",
+      "pandas",
+      "MagicMock",
+      "nvidia_rag.utils.configuration",
+      "pydantic",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "SecretStr",
+      "APIError",
+      "Document",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_utils/test_vdb/test_elasticsearch/test_es_queries.py",
+    "dependencies": [
+      "es_queries",
+      "nvidia_rag.utils.vdb.elasticsearch",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_mcp/test_mcp_client.py",
+    "dependencies": [
+      "types",
+      "ModuleType",
+      "importlib",
+      "__future__",
+      "annotations",
+      "sys"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_mcp/test_mcp_server.py",
+    "dependencies": [
+      "FunctionTool",
+      "types",
+      "examples.nvidia_rag_mcp.mcp_server",
+      "__future__",
+      "typing",
+      "SimpleNamespace",
+      "pytest",
+      "annotations",
+      "fastmcp.tools",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_metadata_validation/test_filter_validator.py",
+    "dependencies": [
+      "threading",
+      "time",
+      "UnexpectedToken",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag.utils.metadata_validation",
+      "pytest",
+      "lark.exceptions",
+      "re",
+      "MetadataConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_metadata_validation/test_filter_metadata_behavior.py",
+    "dependencies": [
+      "threading",
+      "queue",
+      "Any",
+      "unittest.mock",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag.utils.filter_expression_generator",
+      "nvidia_rag.utils.metadata_validation",
+      "Mock",
+      "typing",
+      "pytest",
+      "re",
+      "MetadataConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_metadata_validation/test_metadata_validator.py",
+    "dependencies": [
+      "threading",
+      "math",
+      "time",
+      "json",
+      "unittest.mock",
+      "datetime",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag.utils.metadata_validation",
+      "Mock",
+      "pytest",
+      "MetadataConfig"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_ingestor_main_document_operations.py",
+    "dependencies": [
+      "unittest.mock",
+      "pytest",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "MilvusClient",
+      "nvidia_rag.ingestor_server.main",
+      "Path",
+      "typing",
+      "asyncio",
+      "VDBRagIngest",
+      "json",
+      "MagicMock",
+      "pathlib",
+      "Any",
+      "Mode",
+      "nvidia_rag.utils.vdb.milvus.milvus_vdb",
+      "VDBRag",
+      "tempfile",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_ingestor_library.py",
+    "dependencies": [
+      "Mode",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "unittest.mock",
+      "AsyncMock",
+      "nvidia_rag.ingestor_server.main",
+      "VDBRag",
+      "nvidia_rag.ingestor_server.ingestion_state_manager",
+      "pytest",
+      "IngestorHealthResponse",
+      "asyncio",
+      "os",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_health.py",
+    "dependencies": [
+      "aiohttp",
+      "logging",
+      "unittest.mock",
+      "nvidia_rag.ingestor_server.health",
+      "AsyncMock",
+      "pydantic",
+      "SecretStr",
+      "pytest",
+      "asyncio",
+      "os",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_ingestor_main_core_components.py",
+    "dependencies": [
+      "fastapi.testclient",
+      "json",
+      "Mode",
+      "unittest.mock",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "AsyncMock",
+      "nvidia_rag.ingestor_server.main",
+      "asyncio",
+      "VDBRag",
+      "typing",
+      "pytest",
+      "IngestorHealthResponse",
+      "Any",
+      "TestClient",
+      "nvidia_rag.utils.health_models"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_ingestion_state_manager.py",
+    "dependencies": [
+      "IngestionStateManager",
+      "asyncio",
+      "nvidia_rag.ingestor_server.ingestion_state_manager",
+      "pytest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_task_handler.py",
+    "dependencies": [
+      "nvidia_rag.ingestor_server.task_handler",
+      "json",
+      "unittest.mock",
+      "AsyncMock",
+      "pytest",
+      "asyncio",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_system_managed_fields_integration.py",
+    "dependencies": [
+      "logging",
+      "unittest.mock",
+      "NvidiaRAGIngestor",
+      "AsyncMock",
+      "nvidia_rag.ingestor_server.main",
+      "nvidia_rag.utils.metadata_validation",
+      "pytest",
+      "SYSTEM_MANAGED_FIELDS"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_nvingest.py",
+    "dependencies": [
+      "unittest.mock",
+      "nvidia_rag.ingestor_server.nvingest",
+      "MagicMock",
+      "pytest",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_ingestor_server.py",
+    "dependencies": [
+      "fastapi.testclient",
+      "ValidationError",
+      "json",
+      "app",
+      "Request",
+      "io",
+      "AsyncMock",
+      "unittest.mock",
+      "pydantic",
+      "nvidia_rag.ingestor_server.server",
+      "fastapi",
+      "pytest",
+      "asyncio",
+      "TestClient",
+      "BytesIO"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/unit/test_ingestor_server/test_duplicate_file_handling.py",
+    "dependencies": [
+      "io",
+      "inspect",
+      "unittest.mock",
+      "NvidiaRAGIngestor",
+      "AsyncMock",
+      "nvidia_rag.ingestor_server.main",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "Path",
+      "VDBRag",
+      "nvidia_rag.ingestor_server.server",
+      "process_file_paths",
+      "pathlib",
+      "pytest",
+      "tempfile",
+      "os",
+      "BytesIO"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/vectordb.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/requirements.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/README.md",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "typing",
+      "test_case",
+      "Any",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/main.py",
+    "dependencies": [
+      "argparse",
+      ".utils.discovery",
+      "sys",
+      "discover_test_modules",
+      "TestResult",
+      "time",
+      "Path",
+      ".base",
+      "typing",
+      ".utils.response_handlers",
+      "asyncio",
+      "tabulate",
+      "pathlib",
+      "print_response",
+      "Any",
+      "logging",
+      "aiohttp",
+      ".utils.sequence_executor",
+      "TestSequenceExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/base.py",
+    "dependencies": [
+      "logging",
+      "enum",
+      "dataclass",
+      "Enum",
+      "dataclasses"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_sequences.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/notebook_test_config.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/sequence_executor.py",
+    "dependencies": [
+      "logging",
+      "yaml",
+      "PyYAML",
+      "Path",
+      "discover_test_cases",
+      ".discovery",
+      "pathlib",
+      "typing",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/verification.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "typing",
+      "aiohttp"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/file_utils.py",
+    "dependencies": [
+      "logging",
+      "Path",
+      "os",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/discovery.py",
+    "dependencies": [
+      "logging",
+      "inspect",
+      "tests.integration.base",
+      "module",
+      "BaseTestModule",
+      "importlib",
+      "Path",
+      "module_path",
+      "pathlib",
+      "typing",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/utils/response_handlers.py",
+    "dependencies": [
+      "logging",
+      "aiohttp",
+      "json",
+      "typing",
+      "Any"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/cleanup.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "get_test_files",
+      "os",
+      "..utils.file_utils",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/query_rewriting.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "extract_streaming_text",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/image_captioning.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "print_response",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/summary.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "..utils.verification",
+      "BaseTestModule",
+      "traceback",
+      "..utils.response_handlers",
+      "print_response",
+      "verify_summary_content",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/mcp.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "subprocess",
+      "BaseTestModule",
+      "shlex",
+      "sys",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/document_upload.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "typing",
+      "asyncio",
+      "get_test_files",
+      "os",
+      "..utils.file_utils",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/health_check.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "typing",
+      "Any",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/openai_vector_store_search.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "OpenAI",
+      "BaseTestModule",
+      "openai",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/custom_metadata.py",
+    "dependencies": [
+      "codecs",
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "tests.integration.base",
+      "BaseTestModule",
+      "Path",
+      "pathlib",
+      "asyncio",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/observability.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "asyncio",
+      "typing",
+      "re",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/library_usage.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "NvidiaRAGIngestor",
+      "BaseTestModule",
+      "Path",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "traceback",
+      "retrieve_summary",
+      "nvidia_rag",
+      "pathlib",
+      "NvidiaRAG",
+      "asyncio",
+      "os",
+      "nvidia_rag.rag_server.response_generator",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/milvus_vdb_auth.py",
+    "dependencies": [
+      "aiohttp",
+      "time",
+      "json",
+      "logging",
+      "MilvusClient",
+      "BaseTestModule",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "pymilvus",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/vlm_generation.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "base64",
+      "asyncio",
+      "extract_streaming_text",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/validate_osl.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "tiktoken",
+      "extract_streaming_text",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/multimodal_query.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "base64",
+      "asyncio",
+      "extract_streaming_text",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/custom_prompt.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "..utils.verification",
+      "BaseTestModule",
+      "verify_response_content",
+      "..utils.response_handlers",
+      "typing",
+      "extract_streaming_text",
+      "Any",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/rag_generation.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "..utils.verification",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "typing",
+      "extract_streaming_text",
+      "Any",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/nemo_guardrails.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "print_response",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/file_type_check.py",
+    "dependencies": [
+      "urllib.parse",
+      "Any",
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "typing",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/reflection.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "extract_streaming_text",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/rag_search.py",
+    "dependencies": [
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "..utils.verification",
+      "BaseTestModule",
+      "..utils.response_handlers",
+      "print_response",
+      "verify_citation_document_names",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/integration/test_cases/collection_management.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "time",
+      "json",
+      "aiohttp",
+      "BaseTestModule",
+      "Path",
+      "pathlib",
+      "typing",
+      "tempfile",
+      "asyncio",
+      "os",
+      "..base"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/__init__.py",
+    "dependencies": [
+      "logging",
+      "NvidiaRAGIngestor",
+      ".rag_server.main",
+      ".ingestor_server.main",
+      "NvidiaRAG",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/response_generator.py",
+    "dependencies": [
+      "nvidia_rag.utils.minio_operator",
+      "collections.abc",
+      "BaseModel",
+      "time",
+      "pymilvus.exceptions",
+      "typing",
+      "MilvusException",
+      "asyncio",
+      "uuid",
+      "AsyncGenerator",
+      "langchain_core.documents",
+      "json",
+      "nvidia_rag.utils.observability.otel_metrics",
+      "pydantic",
+      "SUMMARY_STATUS_HANDLER",
+      "Any",
+      "uuid4",
+      "bleach",
+      "logging",
+      "nvidia_rag.utils.summary_status_handler",
+      "Document",
+      "OtelMetrics",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/validation.py",
+    "dependencies": [
+      "bleach",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/query_decomposition.py",
+    "dependencies": [
+      "opentelemetry",
+      "ChatNVIDIA",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "get_llm",
+      "StrOutputParser",
+      "typing",
+      "langchain_core.prompts",
+      "langchain_nvidia_ai_endpoints",
+      "ChatPromptTemplate",
+      "math",
+      "langchain_core.documents",
+      "langchain_core.output_parsers",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "Any",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "logging",
+      "nvidia_rag.utils.common",
+      "VDBRag",
+      "Document"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/vlm.py",
+    "dependencies": [
+      "nvidia_rag.utils.minio_operator",
+      "base64",
+      "collections.abc",
+      "get_prompts",
+      "typing",
+      "AIMessage",
+      "Image",
+      "AsyncGenerator",
+      "ChatOpenAI",
+      "io",
+      "langchain_openai",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "langchain_core.messages",
+      "getLogger",
+      "Any",
+      "re",
+      "NVIDIA_API_DEFAULT_HEADERS",
+      "nvidia_rag.rag_server.response_generator",
+      "logging",
+      "PIL",
+      "nvidia_rag.utils.common",
+      "APIError",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/prompt.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/main.py",
+    "dependencies": [
+      "print_exc",
+      "concurrent.futures",
+      "opentelemetry",
+      "ThreadPoolExecutor",
+      "nvidia_rag.rag_server.validation",
+      "MessagesPlaceholder",
+      "collections.abc",
+      "langchain_core.runnables",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "requests",
+      "check_all_services_health",
+      "nvidia_rag.utils.filter_expression_generator",
+      "ConnectTimeout",
+      "StrOutputParser",
+      "typing",
+      "langchain_core.prompts",
+      "nvidia_rag.rag_server.query_decomposition",
+      "RAGHealthResponse",
+      "get_embedding_model",
+      "nvidia_rag.rag_server.health",
+      "ChatPromptTemplate",
+      "AsyncGenerator",
+      "math",
+      "langchain_core.documents",
+      "json",
+      "_get_vdb_op",
+      "get_ranking_model",
+      "nvidia_rag.utils.embedding",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag.utils.observability.otel_metrics",
+      "NvidiaRAGConfig",
+      "RunnableAssign",
+      "nvidia_rag.rag_server.vlm",
+      "nvidia_rag.utils.vdb",
+      "Any",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.utils.observability.tracing",
+      "nvidia_rag.utils.health_models",
+      "langchain_core.output_parsers.string",
+      "logging",
+      "iterative_query_decomposition",
+      "VLM",
+      "traceback",
+      "nvidia_rag.utils.common",
+      "langchain_core.prompts.chat",
+      "VDBRag",
+      "Document",
+      "nvidia_rag.rag_server.reflection",
+      "OtelMetrics",
+      "nvidia_rag.utils.reranker",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/health.py",
+    "dependencies": [
+      "urllib.parse",
+      "nvidia_rag.utils.minio_operator",
+      "urlparse",
+      "MinioOperator",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "typing",
+      "asyncio",
+      "pymilvus",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "connections",
+      "Any",
+      "re",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "aiohttp",
+      "VDBRag",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/server.py",
+    "dependencies": [
+      "os",
+      "fastapi.exceptions",
+      "RedirectResponse",
+      "fastapi.middleware.cors",
+      "collections.abc",
+      "BaseModel",
+      "time",
+      "print_health_report",
+      "requests",
+      "Path",
+      "APIRouter",
+      "fastapi.encoders",
+      "Generator",
+      "get_swagger_ui_html",
+      "fastapi",
+      "typing",
+      "starlette.responses",
+      "Response",
+      "asyncio",
+      "nvidia_rag.rag_server.health",
+      "MultiProcessCollector",
+      "json",
+      "RequestValidationError",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "pydantic",
+      "starlette.status",
+      "fastapi.responses",
+      "pathlib",
+      "prometheus_client",
+      "Any",
+      "CORSMiddleware",
+      "prometheus_client.multiprocess",
+      "nvidia_rag.rag_server.main",
+      "nvidia_rag.rag_server.response_generator",
+      "bleach",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "nvidia_rag.utils.observability.tracing",
+      "fastapi.openapi.docs",
+      "jsonable_encoder",
+      "get_openapi",
+      "APIError",
+      "HTTP_422_UNPROCESSABLE_ENTITY",
+      "JSONResponse",
+      "fastapi.openapi.utils",
+      "instrument",
+      "REGISTRY"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/rag_server/reflection.py",
+    "dependencies": [
+      "concurrent.futures",
+      "opentelemetry",
+      "ThreadPoolExecutor",
+      "langchain_core.runnables",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "get_llm",
+      "StrOutputParser",
+      "typing",
+      "ChatPromptTemplate",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "RunnableAssign",
+      "Any",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "langchain_core.output_parsers.string",
+      "logging",
+      "APIError",
+      "VDBRag",
+      "langchain_core.prompts.chat"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/configuration.py",
+    "dependencies": [
+      "pydantic.fields",
+      "BaseModel",
+      "enum",
+      "json",
+      "StrEnum",
+      "yaml",
+      "Path",
+      "pydantic",
+      "pathlib",
+      "typing",
+      "Field",
+      "Any",
+      "os",
+      "FieldInfo"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/filter_expression_generator.py",
+    "dependencies": [
+      "Any",
+      "logging",
+      "json",
+      "typing",
+      "langchain_core.prompts",
+      "re",
+      "ChatPromptTemplate"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/reranker.py",
+    "dependencies": [
+      "lru_cache",
+      "logging",
+      "BaseDocumentCompressor",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "functools",
+      "nvidia_rag.utils.common",
+      "NVIDIARerank",
+      "langchain_core.documents.compressor",
+      "langchain_nvidia_ai_endpoints",
+      "NVIDIA_API_DEFAULT_HEADERS"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/health_models.py",
+    "dependencies": [
+      "BaseModel",
+      "pydantic",
+      "enum",
+      "Enum"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/summary_status_handler.py",
+    "dependencies": [
+      "logging",
+      "redis.exceptions",
+      "json",
+      "datetime",
+      "UTC",
+      "ConnectionPool",
+      "redis",
+      "typing",
+      "Any",
+      "os",
+      "ConnectionError"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/minio_operator.py",
+    "dependencies": [
+      "logging",
+      "io",
+      "json",
+      "minio.commonconfig",
+      "Minio",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "SnowballObject",
+      "minio",
+      "BytesIO"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/summarization.py",
+    "dependencies": [
+      "get_minio_operator_instance",
+      "Callable",
+      "UTC",
+      "functools",
+      "nvidia_rag.utils.minio_operator",
+      "collections.abc",
+      "time",
+      "get_llm",
+      "StrOutputParser",
+      "typing",
+      "transformers",
+      "asyncio",
+      "ChatPromptTemplate",
+      "langchain_core.documents",
+      "get_unique_thumbnail_id",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "SUMMARY_STATUS_HANDLER",
+      "Any",
+      "nvidia_rag.rag_server.response_generator",
+      "langchain_core.output_parsers.string",
+      "logging",
+      "nvidia_rag.utils.summary_status_handler",
+      "datetime",
+      "langchain_core.prompts.chat",
+      "partial",
+      "Document",
+      "os",
+      "AutoTokenizer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/metadata_validation.py",
+    "dependencies": [
+      "parser",
+      "logging",
+      "enum",
+      "json",
+      "hashlib",
+      "Enum",
+      "datetime",
+      "Lark",
+      "Path",
+      "Callable",
+      "UTC",
+      "dateutil",
+      "lark",
+      "pydantic",
+      "pathlib",
+      "typing",
+      "re",
+      "collections.abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/batch_utils.py",
+    "dependencies": [
+      "logging",
+      "Path",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "pathlib",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/filter_grammar.lark",
+    "dependencies": [
+      "common.WS",
+      "common.SIGNED_NUMBER",
+      "common.ESCAPED_STRING"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/llm.py",
+    "dependencies": [
+      "SimpleChatModel",
+      "functools",
+      "LLMResult",
+      "ChatNVIDIA",
+      "collections.abc",
+      "langchain_core.runnables",
+      "requests",
+      "Path",
+      "AIMessageChunk",
+      "typing",
+      "langchain_nvidia_ai_endpoints",
+      "lru_cache",
+      "ChatOpenAI",
+      "langchain_core.outputs",
+      "langchain_openai",
+      "BaseCallbackHandler",
+      "LLM",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "langchain_core.messages",
+      "langchain_core.callbacks",
+      "pathlib",
+      "Iterable",
+      "Any",
+      "nvidia_rag.rag_server.response_generator",
+      "logging",
+      "yaml",
+      "langchain_core.language_models.chat_models",
+      "nvidia_rag.utils.common",
+      "APIError",
+      "partial",
+      "langchain_core.language_models.llms",
+      "RunnableGenerator",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/embedding.py",
+    "dependencies": [
+      "NVIDIAEmbeddings",
+      "lru_cache",
+      "logging",
+      "langchain_core.embeddings",
+      "nvidia_rag.utils.configuration",
+      "HuggingFaceEmbeddings",
+      "NvidiaRAGConfig",
+      "functools",
+      "langchain_community.embeddings",
+      "nvidia_rag.utils.common",
+      "Embeddings",
+      "langchain_nvidia_ai_endpoints",
+      "NVIDIA_API_DEFAULT_HEADERS"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/common.py",
+    "dependencies": [
+      "concurrent.futures",
+      "Callable",
+      "UTC",
+      "ThreadPoolExecutor",
+      "functools",
+      "nvidia_rag.utils.metadata_validation",
+      "collections.abc",
+      "nvidia_rag.utils",
+      "configuration",
+      "typing",
+      "langchain_nvidia_ai_endpoints",
+      "uuid",
+      "langchain_core.documents",
+      "json",
+      "pandas",
+      "Model",
+      "Any",
+      "wraps",
+      "ast",
+      "uuid4",
+      "logging",
+      "datetime",
+      "Document",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/otel_metrics.py",
+    "dependencies": [
+      "logging",
+      "metrics",
+      "opentelemetry"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/langchain_instrumentor.py",
+    "dependencies": [
+      "Collection",
+      "logging",
+      "wrap_function_wrapper",
+      "opentelemetry.trace",
+      "opentelemetry.instrumentation.utils",
+      "Config",
+      "unwrap",
+      "BaseInstrumentor",
+      "wrapt",
+      ".langchain_callback_handler",
+      "opentelemetry.instrumentation.instrumentor",
+      "collections.abc",
+      "get_tracer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/langchain_callback_handler.py",
+    "dependencies": [
+      "os",
+      "opentelemetry.instrumentation.utils",
+      "opentelemetry",
+      "opentelemetry.context.context",
+      "asdict",
+      "opentelemetry.trace.span",
+      ".tracing.helpers",
+      "LLMResult",
+      "Context",
+      "opentelemetry.semconv_ai",
+      "Span",
+      "BaseModel",
+      "opentelemetry.trace",
+      "time",
+      "dataclasses",
+      "get_current_usage_scope",
+      "AIMessageChunk",
+      "typing",
+      "uuid",
+      "langchain_core.outputs",
+      "json",
+      "BaseCallbackHandler",
+      "nvidia_rag.utils.llm",
+      "langchain_core.messages",
+      "pydantic",
+      "_extract_token_usage_from_llm_result",
+      "langchain_core.callbacks",
+      "SpanKind",
+      "Any",
+      "_SUPPRESS_INSTRUMENTATION_KEY",
+      "context",
+      "logging",
+      "traceback",
+      "OtelMetrics",
+      "UUID",
+      ".otel_metrics"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/tracing/helpers.py",
+    "dependencies": [
+      "Any",
+      "contextlib",
+      "opentelemetry.trace",
+      "Awaitable",
+      "trace",
+      "__future__",
+      "opentelemetry",
+      "functools",
+      "ContextVar",
+      "contextmanager",
+      "contextvars",
+      "typing",
+      "annotations",
+      "asyncio",
+      "wraps",
+      "collections.abc",
+      "Span"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/tracing/__init__.py",
+    "dependencies": [
+      ".instrumentation",
+      "instrument",
+      ".helpers"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/observability/tracing/instrumentation.py",
+    "dependencies": [
+      "PeriodicExportingMetricReader",
+      "opentelemetry.sdk.metrics.export",
+      "Callable",
+      "opentelemetry",
+      "nvidia_rag.utils.observability.langchain_instrumentor",
+      "functools",
+      "opentelemetry.instrumentation.fastapi",
+      "metrics",
+      "collections.abc",
+      "LangchainInstrumentor",
+      "opentelemetry.processor.baggage",
+      "opentelemetry.sdk.trace",
+      "fastapi",
+      "opentelemetry.exporter.otlp.proto.http.trace_exporter",
+      "MeterProvider",
+      "Resource",
+      "FastAPIInstrumentor",
+      "opentelemetry.sdk.trace.export",
+      "OTLPSpanExporter",
+      "FastAPI",
+      "opentelemetry.instrumentation.milvus",
+      "nvidia_rag.utils.observability.otel_metrics",
+      "opentelemetry.sdk.resources",
+      "MilvusInstrumentor",
+      "ALLOW_ALL_BAGGAGE_KEYS",
+      "ReadableSpan",
+      "opentelemetry.sdk.metrics",
+      "logging",
+      "OTLPMetricExporter",
+      "opentelemetry.sdk.extension.prometheus_multiprocess",
+      "partial",
+      "opentelemetry.exporter.otlp.proto.grpc.metric_exporter",
+      "OtelMetrics",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/__init__.py",
+    "dependencies": [
+      "get_metadata_configuration",
+      "ElasticVDB",
+      "nvidia_rag.utils.configuration",
+      "nvidia_rag.utils.vdb.milvus.milvus_vdb",
+      "NvidiaRAGConfig",
+      "nvidia_rag.utils.common",
+      "typing",
+      "Any",
+      "os",
+      "MilvusVDB",
+      "nvidia_rag.utils.vdb.elasticsearch.elastic_vdb"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/vdb_base.py",
+    "dependencies": [
+      "Any",
+      "langchain_core.vectorstores",
+      "ABC",
+      "typing",
+      "VectorStore",
+      "abc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/vdb_ingest_base.py",
+    "dependencies": [
+      "threading",
+      "logging",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "VDBRag",
+      "VDB",
+      "nv_ingest_client.util.vdb.adt_vdb"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/elasticsearch/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/elasticsearch/elastic_vdb.py",
+    "dependencies": [
+      "concurrent.futures",
+      "opentelemetry",
+      "ElasticsearchStore",
+      "langchain_core.runnables",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "requests",
+      "ServiceStatus",
+      "typing",
+      "VDBRagIngest",
+      "ConnectionError",
+      "langchain_core.documents",
+      "DenseVectorStrategy",
+      "cleanup_records",
+      "pandas",
+      "elastic_transport",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "RunnableAssign",
+      "nvidia_rag.utils.vdb",
+      "Any",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "langchain_elasticsearch",
+      "nvidia_rag.utils.vdb.elasticsearch.es_queries",
+      "elasticsearch.helpers.vectorstore",
+      "nvidia_rag.utils.common",
+      "APIError",
+      "Future",
+      "Document",
+      "nv_ingest_client.util.milvus",
+      "elasticsearch",
+      "os",
+      "Elasticsearch"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/elasticsearch/es_queries.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/milvus/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/utils/vdb/milvus/milvus_vdb.py",
+    "dependencies": [
+      "BM25BuiltInFunction",
+      "urllib.parse",
+      "opentelemetry",
+      "create_nvingest_collection",
+      "urlparse",
+      "langchain_core.runnables",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "requests",
+      "pymilvus.orm.types",
+      "ServiceStatus",
+      "typing",
+      "uuid",
+      "pymilvus",
+      "VDBRagIngest",
+      "Milvus",
+      "langchain_core.documents",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "RunnableAssign",
+      "nvidia_rag.utils.vdb",
+      "Any",
+      "context",
+      "nvidia_rag.rag_server.response_generator",
+      "uuid4",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "langchain_milvus",
+      "nvidia_rag.utils.common",
+      "APIError",
+      "Document",
+      "nv_ingest_client.util.milvus",
+      "CONSISTENCY_STRONG",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/Dockerfile",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/task_handler.py",
+    "dependencies": [
+      "Redis",
+      "Any",
+      "logging",
+      "BaseModel",
+      "json",
+      "Callable",
+      "pydantic",
+      "redis",
+      "typing",
+      "asyncio",
+      "uuid",
+      "os",
+      "collections.abc",
+      "uuid4"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/nvingest.py",
+    "dependencies": [
+      "nv_ingest_api.util.message_brokers.simple_message_broker",
+      "get_prompts",
+      "get_tracer",
+      "tar_filter",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "typing",
+      "Ingestor",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "Any",
+      "nvidia_rag.utils.observability.tracing",
+      "logging",
+      "SimpleClient",
+      "nv_ingest_client.client",
+      "nvidia_rag.utils.common",
+      "tarfile",
+      "VDBRag",
+      "sanitize_nim_url",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/main.py",
+    "dependencies": [
+      "nvidia_rag.ingestor_server.task_handler",
+      "print_exc",
+      "Enum",
+      "SummaryOptions",
+      "UTC",
+      "nvidia_rag.utils.metadata_validation",
+      "SerializedVDBWrapper",
+      "nvidia_rag.ingestor_server.server",
+      "nvidia_rag.utils.minio_operator",
+      "EXTENSION_TO_DOCUMENT_TYPE",
+      "INGESTION_TASK_HANDLER",
+      "defaultdict",
+      "get_prompts",
+      "_DEFAULT_EXTRACTOR_MAP",
+      "calculate_dynamic_batch_parameters",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_ingest_base",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "MilvusClient",
+      "to",
+      "nvidia_rag.ingestor_server.nvingest",
+      "Path",
+      "check_all_services_health",
+      "nvidia_rag.utils.batch_utils",
+      "typing",
+      "VDB",
+      "asyncio",
+      "uuid",
+      "pymilvus",
+      "nv_ingest_client.util.vdb.adt_vdb",
+      "json",
+      "nvidia_rag.ingestor_server.health",
+      "generate_document_summaries",
+      "nvidia_rag.utils.llm",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "IngestionStateManager",
+      "nv_ingest_client.util.file_processing.extract",
+      "SUMMARY_STATUS_HANDLER",
+      "pathlib",
+      "nvidia_rag.utils.vdb",
+      "Any",
+      "collections",
+      "uuid4",
+      "DEFAULT_DOCUMENT_INFO_COLLECTION",
+      "nvidia_rag.rag_server.main",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "enum",
+      "nvidia_rag.utils.observability.tracing",
+      "nvidia_rag.utils.summary_status_handler",
+      "datetime",
+      "nvidia_rag.utils.vdb.elasticsearch.es_queries",
+      "traceback",
+      "nvidia_rag.utils.common",
+      "APIError",
+      "VDBRag",
+      "nv_ingest_client.primitives.tasks.extract",
+      "nvidia_rag.ingestor_server.ingestion_state_manager",
+      "IngestorHealthResponse",
+      "nvidia_rag.utils.summarization",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/ingestion_state_manager.py",
+    "dependencies": [
+      "logging",
+      "asyncio",
+      "typing",
+      "Any",
+      "uuid",
+      "os",
+      "uuid4"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/health.py",
+    "dependencies": [
+      "urllib.parse",
+      "nvidia_rag.utils.minio_operator",
+      "urlparse",
+      "get_tracer",
+      "MinioOperator",
+      "time",
+      "nvidia_rag.utils.vdb.vdb_base",
+      "typing",
+      "asyncio",
+      "pymilvus",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "connections",
+      "Any",
+      "re",
+      "nvidia_rag.utils.observability.tracing",
+      "nvidia_rag.utils.health_models",
+      "Redis",
+      "logging",
+      "aiohttp",
+      "redis",
+      "VDBRag",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/server.py",
+    "dependencies": [
+      "fastapi.exceptions",
+      "MetadataField",
+      "nvidia_rag.utils.metadata_validation",
+      "fastapi.middleware.cors",
+      "get_tracer",
+      "shutil",
+      "BaseModel",
+      "print_health_report",
+      "nvidia_rag.ingestor_server.main",
+      "Path",
+      "fastapi.encoders",
+      "fastapi",
+      "typing",
+      "asyncio",
+      "json",
+      "RequestValidationError",
+      "nvidia_rag.ingestor_server.health",
+      "nvidia_rag.utils.configuration",
+      "NvidiaRAGConfig",
+      "pydantic",
+      "starlette.status",
+      "fastapi.responses",
+      "pathlib",
+      "Any",
+      "CORSMiddleware",
+      "nvidia_rag.utils.observability.tracing",
+      "nvidia_rag.rag_server.main",
+      "nvidia_rag.utils.health_models",
+      "logging",
+      "Mode",
+      "jsonable_encoder",
+      "APIError",
+      "HTTP_422_UNPROCESSABLE_ENTITY",
+      "JSONResponse",
+      "instrument",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "src/nvidia_rag/ingestor_server/docker/scripts/post_build_triggers.py",
+    "dependencies": [
+      "transformers",
+      "sys",
+      "os",
+      "AutoTokenizer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
